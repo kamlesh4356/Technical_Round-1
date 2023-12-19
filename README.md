@@ -36,6 +36,8 @@ Provide instructions on how to install your project locally.
 - Font Awesome for icons
 
 ## Dependencies <a name="dependencies"></a>
+
+##DEMO : https://neon-dasik-0b36b4.netlify.app/
 - The platform uses an external CSS file for styling.
 - The platform uses favicon images for different devices.
 - The platform uses an external JavaScript file for functionality.
